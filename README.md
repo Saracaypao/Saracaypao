@@ -34,8 +34,4 @@
   </a>
 </p>
 
-<p align="center">
-  <b>Let’s build useful backends together.</b>
-</p>
-
 <sub><i>“Live a life you will remember.”</i></sub>
