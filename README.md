@@ -38,4 +38,4 @@
   <b>Let’s build useful backends together.</b>
 </p>
 
-<sub><i>“Build it clean. Document it well. Keep it simple.”</i></sub>
+<sub><i>“Live a life you will remember.”</i></sub>
