@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Paola Saracay 👋</h1>
-<p align="center">
-  Computer Engineering student at <b>UCA (El Salvador)</b> · <b>Backend-focused</b><br/>
-  C++, Java & JavaScript · HTML/CSS/Bootstrap · Node.js/Express · MongoDB/SQL · Figma (UI/UX basics)
-</p>
 
 <p align="center">
   I’m a Computer Engineering student at <b>UCA (El Salvador)</b> with a backend-first mindset.
   I’m a curious learner—about my field and pretty much everything else. I’d love to take my career abroad, 
   learn how teams build software in different places, and bring those lessons back. I enjoy leading teams,
   setting a plan, and keeping people and code moving in the same direction.
+</p>
+
+<p align="center">
+  C++, Java & JavaScript · HTML/CSS/Bootstrap · Node.js/Express · MongoDB/SQL · Figma (UI/UX basics)
 </p>
 
 <p align="center">
