@@ -5,6 +5,13 @@
 </p>
 
 <p align="center">
+  I’m a Computer Engineering student at <b>UCA (El Salvador)</b> with a backend-first mindset.
+  I’m a curious learner—about my field and pretty much everything else. I’d love to take my career abroad, 
+  learn how teams build software in different places, and bring those lessons back. I enjoy leading teams,
+  setting a plan, and keeping people and code moving in the same direction.
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Focus-Backend-informational?style=flat" />
   <img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20Express%20%7C%20MongoDB%20%7C%20SQL-informational?style=flat" />
   <img src="https://img.shields.io/badge/Langs-C%2B%2B%20%7C%20Java%20%7C%20JavaScript-informational?style=flat" />
