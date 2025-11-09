@@ -1,57 +1,38 @@
-<!-- Banner -->
-<h1 align="center">Paola Saracay — Backend over Buzzwords 👋</h1>
+<h1 align="center">Hi, I'm Paola Saracay 👋</h1>
 <p align="center">
-  Computer Engineering student @ <b>UCA (El Salvador)</b> · <b>Backend Developer</b> ·
-  I ship code that's <b>readable, tested, and documented</b>.
+  Computer Engineering student at <b>UCA (El Salvador)</b> · <b>Backend-focused</b><br/>
+  C++, Java & JavaScript · HTML/CSS/Bootstrap · Node.js/Express · MongoDB/SQL · Figma (UI/UX basics)
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-informational?style=flat&logo=node.js" />
-  <img src="https://img.shields.io/badge/Databases-MongoDB%20%7C%20PostgreSQL-informational?style=flat&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Auth-JWT%20%7C%20RBAC-informational?style=flat&logo=jsonwebtokens" />
-  <img src="https://img.shields.io/badge/Docs-OpenAPI%20%7C%20Swagger-informational?style=flat&logo=swagger" />
-  <img src="https://img.shields.io/badge/Quality-Tests%20%7C%20CI-informational?style=flat&logo=githubactions" />
+  <img src="https://img.shields.io/badge/Focus-Backend-informational?style=flat" />
+  <img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20Express%20%7C%20MongoDB%20%7C%20SQL-informational?style=flat" />
+  <img src="https://img.shields.io/badge/Langs-C%2B%2B%20%7C%20Java%20%7C%20JavaScript-informational?style=flat" />
+  <img src="https://img.shields.io/badge/UI-Figma%20%7C%20Bootstrap-informational?style=flat" />
 </p>
 
-<img align="right" width="300"
+<img align="right" width="280"
      src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/illustrations/developer.svg"
      alt="developer illustration">
 
 ## About me
-- 🧭 **Backend-first**: REST APIs, request validation, pagination/filtering, and solid error handling.
-- 🔐 I enjoy building **auth flows** (JWT + refresh tokens), roles/permissions, and rate limiting.
-- 🧪 I care about **quality**: unit/integration tests (Jest/Supertest), CI with GitHub Actions, small PRs.
-- 📦 Databases I like: **MongoDB** and **PostgreSQL** (migrations, indexes, query tuning).
-- 🧰 I keep things maintainable: layered architecture, clean commits, clear READMEs.
-- 🧊 C++ is my foundation for performance thinking, but my focus is **backend**.
+- 🧭 **Backend-oriented:** I enjoy building REST APIs with **Node.js/Express** and working with **MongoDB/SQL**.
+- 🧹 I value **clean code**, clear documentation, and simple structures that are easy to maintain.
+- 🧰 My foundation is **C++**, and I also work with **Java** and **JavaScript** for real projects.
+- 🎨 I practice **UI/UX basics** with **Figma** to keep my interfaces usable and consistent.
+- 🤝 I like learning in public and collaborating on small, useful projects.
 
 ## Tech I use
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,js,html,css,bootstrap,mongodb,postgres,git,github,swagger,postman,docker,linux,cpp,java,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,bootstrap,nodejs,express,mongodb,git,github,figma,vscode" />
 </p>
 
-## Selected projects
-- 🛠️ <b><a href="https://github.com/Saracaypao/node-rest-starter">node-rest-starter</a></b> — Express template with routing, validation, JWT auth, tests and CI.
-- 🛒 <b><a href="https://github.com/Saracaypao/restful-ecommerce-api">restful-ecommerce-api</a></b> — Products/Orders API, PostgreSQL, migrations, Swagger docs, seed data.
-- 🔐 <b><a href="https://github.com/Saracaypao/auth-service-jwt">auth-service-jwt</a></b> — Auth service with refresh tokens, RBAC and rate limiting.
-- 🧩 <b><a href="https://github.com/Saracaypao/cpp-utils">cpp-utils</a></b> — Small C++ utilities/CLIs that support my backend workflows.
-- 🛍️ <b><a href="https://github.com/Saracaypao/mini-ecommerce-ui">mini-ecommerce-ui</a></b> — Minimal Bootstrap front end (for API demo).  
+## What you’ll find here
+- Backend projects with **Express**, routing, validation and clear README instructions.
+- Frontend pieces with **HTML/CSS/Bootstrap** to demo APIs.
+- Notes and small exercises that reflect what I’m studying at **UCA**.
 
-> I pin my best repositories on the profile—feel free to explore them!
-
-## How I work
-- Clear READMEs, runnable examples, and `.env.example` (**no secrets** in code).
-- Conventional Commits (`feat:`, `fix:`, `docs:`) and tidy issue boards.
-- CI on every push; tests before refactors; performance budgets when relevant.
-
-## Quick stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saracaypao&show_icons=true&theme=transparent" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saracaypao&layout=compact&theme=transparent&langs_count=8" height="140" />
-</div>
-
-## Connect with me
+## Contact
 - ✉️ <a href="mailto:paolasaracay02@gmail.com">paolasaracay02@gmail.com</a>
-- 💼 <a href="https://www.linkedin.com/">LinkedIn</a> <!-- replace with your profile -->
 
-<sub><i>“Clean over clever. Reliable over flashy. People over code.”</i></sub>
+<sub><i>“Build it clean. Document it well. Keep it simple.”</i></sub>
