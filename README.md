@@ -36,9 +36,9 @@
     <img src="https://img.shields.io/badge/Email-paolasaracay02%40gmail.com-informational?style=for-the-badge&logo=gmail" alt="Email Badge" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/paola-elizabeth-saracay-cruz-ba18b0347/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
-  </a>
+  <a href="https://www.linkedin.com/in/paola-elizabeth-saracay-cruz-ba18b0347" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
+</a>
 </p>
 
 <sub><i>“Live a life you will remember.”</i></sub>
